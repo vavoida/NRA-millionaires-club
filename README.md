@@ -22,4 +22,4 @@ https://www.nytimes.com/interactive/2017/10/04/opinion/thoughts-prayers-nra-fund
 
 Ranking may vary depending on the current state of donations.<br>
 Maybe the list is missing a hidding donation champion.<br>
-Disclaimer:<br> I'm not a journalist. The list was done in 5 minutes.<br>
+<br>Disclaimer:</b><br> I'm not a journalist. The list was done in 5 minutes.<br>
