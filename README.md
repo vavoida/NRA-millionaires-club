@@ -16,9 +16,9 @@ $1.0m @RepFrenchHill
 
 
 Sources:
-http://fortune.com/2018/02/15/nra-contributions-politicians-senators/
-http://metro.co.uk/2018/02/15/list-us-politicians-receive-millions-national-rifle-association-7314597/
-https://www.nytimes.com/interactive/2017/10/04/opinion/thoughts-prayers-nra-funding-senators.html
+http://fortune.com/2018/02/15/nra-contributions-politicians-senators/<br>
+http://metro.co.uk/2018/02/15/list-us-politicians-receive-millions-national-rifle-association-7314597/<br>
+https://www.nytimes.com/interactive/2017/10/04/opinion/thoughts-prayers-nra-funding-senators.html<br>
 
 Ranking may vary depending on the current state of donations.
 Maybe the list is missing a hidding donation champion.
