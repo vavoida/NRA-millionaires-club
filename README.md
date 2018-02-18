@@ -19,7 +19,8 @@ Sources:<br>
 http://fortune.com/2018/02/15/nra-contributions-politicians-senators/<br>
 http://metro.co.uk/2018/02/15/list-us-politicians-receive-millions-national-rifle-association-7314597/<br>
 https://www.nytimes.com/interactive/2017/10/04/opinion/thoughts-prayers-nra-funding-senators.html<br>
-<br>[How to prevent gund deaths](https://www.nytimes.com/interactive/2017/01/10/upshot/How-to-Prevent-Gun-Deaths-The-Views-of-Experts-and-the-Public.html)
+<br>
+[How to prevent gund deaths](https://www.nytimes.com/interactive/2017/01/10/upshot/How-to-Prevent-Gun-Deaths-The-Views-of-Experts-and-the-Public.html)
 
 
 Ranking may vary depending on the current state of donations.<br>
